@@ -1,0 +1,43 @@
+.ney{
+    position: absolute;
+    left: 5%;
+    top: 17%;
+}
+
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+background-color: #f0f0f0;
+}
+
+header {
+text-align: center;
+padding: 20px;
+background-color: #333;
+color: #fff;
+}
+
+figcaption {
+text-align: center;
+font-style: italic;
+color: #888;
+margin-top: 10px;
+}
+
+.content {
+padding: 20px;
+background-color: #fff;
+}
+
+h2 {
+color: #333;
+margin-bottom: 10px;
+}
+
+p {
+line-height: 1.5;
+}
+
+a {
+color: #007bff; 
+}
